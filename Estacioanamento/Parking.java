@@ -39,7 +39,7 @@ public class Parking {
         this.departureDate = departureDate;
     }
 
-    public Double calculateCharges() {npm
+    public Double calculateCharges() {
         Duration stay = Duration.between(getEntryDate(), getDepartureDate());
 
         long hours = stay.toHours();
