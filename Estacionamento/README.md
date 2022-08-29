@@ -1,0 +1,3 @@
+## Proposta de resolução da questão 6.8 , Capitulo 6 : Métodos , um exame mais profundo, pagina 186, do Livro : Java-Como Programar 10ª Edição, Deitel.
+
+Em linhas gerais , o exercício pede para escrever um aplicatico que calcule a tarifa por cliente em um estacionamento que cobra  2,00 para estacionar por até três horas. Um adicional de 0,50 por hora,não necessariamente inteiras, sera adicionada a tarifa por cada hora adicional . A tarifa máxima para qualquer dado período de 24 horas é de 10,00 e nenhum carro fica estacionado por mais de 24 horas. O programa deve exibir a cobrança por cliente  e calcular e exibir o total dos recibos de ontem. Ele deve utilizar o método calculateCharges para determinar a tarifa para cada cliente.
